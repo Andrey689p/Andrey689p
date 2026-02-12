@@ -24,7 +24,7 @@
 </div>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Relational%20Databases-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" />
